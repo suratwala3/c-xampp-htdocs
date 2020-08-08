@@ -1,0 +1,27 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fudx",
+    "sha256_cert_fingerprints":
+    ["4F:BE:BD:18:A0:27:63:17:3B:F0:8A:5B:74:04:A6:A6:CE:02:6E:9E:DA:30:33:D7:89:CE:0F:B7:E8:BF:07:B5"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fudxstore",
+    "sha256_cert_fingerprints":
+    ["BF:A5:44:E5:56:6F:D9:46:70:BB:65:CF:77:8E:72:54:DF:AE:7A:CB:05:C7:93:41:32:F1:38:8E:EE:6C:36:09"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fudxdelivery",
+    "sha256_cert_fingerprints":
+    ["6C:61:3E:37:F3:B7:BC:4F:A5:44:D4:84:BC:67:DC:EE:FF:2A:B3:D3:0C:7C:C5:35:34:87:4F:CD:76:B8:D6:01"]
+  }
+}]
